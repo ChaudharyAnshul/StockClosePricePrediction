@@ -16,3 +16,5 @@ This process entailed several crucial steps:
 7. Model Validation
 8. SHAP Analysis
 9. Interpretability
+
+The result of this comprehensive approach is a robust Machine Learning model capable of accurately predicting stock closing prices, providing valuable insights for informed investment decisions.
